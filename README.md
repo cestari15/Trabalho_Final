@@ -87,7 +87,7 @@ JavaScript puro
 
 📂 Estrutura do Projeto
 / (raiz)
- ├── server.js
+ ├── index.js
  ├── package.json
  ├── package-lock.json
  └── README.md
