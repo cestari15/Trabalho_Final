@@ -356,3 +356,8 @@ server.get("/listarJogadores", requireLogin, (req, res) => {
 
 
 server.listen(porta, host, () => console.log("Servidor rodando"));
+
+
+
+//https://trabalho-final-chi.vercel.app/  LINK VERCEL
+//https://github.com/cestari15/Trabalho_Final.git LINK GITHUB
